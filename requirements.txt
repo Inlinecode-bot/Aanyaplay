@@ -22,10 +22,7 @@ youtube-search-python
 gtts
 lyricsgenius
 
-# --- Telegram core (pinned & compatible) ---
+# Telegram stack (STABLE)
 pyrogram==2.0.106
 tgcrypto==1.2.5
-pytgcalls==3.0.0.dev24
-
-# --- Safone API ---
-git+https://github.com/AsmSafone/SafoneAPI
+pytgcalls==2.1.0
